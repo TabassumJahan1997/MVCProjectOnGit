@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MasterDetail_AircraftDbModelStoreContainer" CdmEntityContainer="MasterDetail_AircraftDbContext">
+    <EntitySetMapping Name="Aircraft">
+      <EntityTypeMapping TypeName="MasterDetail_AircraftDbModel.Aircraft">
+        <MappingFragment StoreEntitySet="Aircraft">
+          <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+          <ScalarProperty Name="AircraftName" ColumnName="AircraftName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Available" ColumnName="Available" />
+          <ScalarProperty Name="AircraftTypeId" ColumnName="AircraftTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AircraftEntries">
+      <EntityTypeMapping TypeName="MasterDetail_AircraftDbModel.AircraftEntry">
+        <MappingFragment StoreEntitySet="AircraftEntry">
+          <ScalarProperty Name="AircraftEntryId" ColumnName="AircraftEntryId" />
+          <ScalarProperty Name="ModelNo" ColumnName="ModelNo" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+          <ScalarProperty Name="NoOfEngine" ColumnName="NoOfEngine" />
+          <ScalarProperty Name="ProductionDate" ColumnName="ProductionDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AircraftTypes">
+      <EntityTypeMapping TypeName="MasterDetail_AircraftDbModel.AircraftType">
+        <MappingFragment StoreEntitySet="AircraftType">
+          <ScalarProperty Name="AircraftTypeId" ColumnName="AircraftTypeId" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EntryAircrafts">
+      <EntityTypeMapping TypeName="MasterDetail_AircraftDbModel.EntryAircraft">
+        <MappingFragment StoreEntitySet="EntryAircrafts">
+          <ScalarProperty Name="EntryAircraftsId" ColumnName="EntryAircraftsId" />
+          <ScalarProperty Name="AircraftEntryId" ColumnName="AircraftEntryId" />
+          <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

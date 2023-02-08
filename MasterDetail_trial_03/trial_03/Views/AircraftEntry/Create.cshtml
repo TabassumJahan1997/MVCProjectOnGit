@@ -1,0 +1,111 @@
+﻿@model trial_03.ViewModels.AircraftEntryInputModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<div class="row">
+    <div class="col mx-5">
+        <h3>Create New Aircraft Entry</h3>
+        <div id="msg">
+
+        </div>
+        @using (Ajax.BeginForm("Create", "AircraftEntry",new { ImagePath=Model.ImagePath}, new AjaxOptions
+        {
+            HttpMethod = "post",
+            InsertionMode = InsertionMode.Replace,
+            UpdateTargetId = "msg",
+            OnSuccess = "onSuccess"
+        }, new { id = "f", enctype = "multipart/form-data" }))
+        {
+
+    <table class="table table-bordered table-sm">
+        <tr class="col-8">
+            <td>
+                @Html.LabelFor(a => a.ModelNo, new { @class = "col-form-label col-4" })
+            </td>
+            <td>
+                @Html.TextBoxFor(a => a.ModelNo, new { @class = "form-control col-4" })
+            </td>
+        </tr>
+
+        <tr class="col-8">
+            <td>
+                @Html.LabelFor(a => a.NoOfEngine, new { @class = "col-form-label col-5" })
+            </td>
+            <td>
+                @Html.TextBoxFor(a => a.NoOfEngine, new { @class = "form-control col-4", type = "number" })
+            </td>
+        </tr>
+
+        <tr class="col-6">
+            <td>
+                @Html.LabelFor(a => a.Image, new { @class = "col-form-label col-2" })
+            </td>
+            <td>
+                @Html.TextBoxFor(a => a.Image, new { @class = "form-control col-4", type = "file" })
+            </td>
+        </tr>
+
+        <tr class="col-8">
+            <td>
+                @Html.LabelFor(a => a.ProductionDate, new { @class = "col-form-label col-4" })
+            </td>
+            <td>
+                @Html.TextBoxFor(a => a.ProductionDate, "{0:yyyy-MM-dd}", new { @class = "form-control col-4", type = "date" })
+            </td>
+        </tr>
+
+    </table>
+            <div class="d-flex justify-content-between mb-1">
+                <h4>Aircrafts</h4>
+                <button type="button" id="add" class="btn btn-secondary btn-sm">+</button>
+            </div>
+            <div id="child">
+                @Html.Action("CreateAircraftEntry")
+            </div>
+            <div class="mb-1">
+                <div class="col-4 offset-2">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+<div>
+    <a href="@Url.Action("Index","AircraftEntry")" class="btn btn-link text-decoration-none"><i class="fa fa-arrow-circle-left"></i> Back to list</a>
+</div>
+@section scripts{
+
+    <script src="~/Scripts/jquery-3.6.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(() => {
+            $(document).on("change", ".select", function () {
+                var p = $(this).attr("id");
+                var q = $(this).parent().parent().find("#Price");
+                $.ajax({
+                    type: "POST",
+                    url: '/AircraftEntry/GetPrice/' + $(this).val(),
+                    datatype: "json",
+                    success: data => {
+                        q.val(data);
+                    }
+                });
+            })
+
+            $("#add").click(() => {
+                $.ajax({
+                    type: "GET",
+                    url: "/AircraftEntry/CreateAircraftEntry",
+                    success: a => {
+                        $("#child").append(a);
+                    }
+                });
+            });
+        });
+    </script>
+}
+

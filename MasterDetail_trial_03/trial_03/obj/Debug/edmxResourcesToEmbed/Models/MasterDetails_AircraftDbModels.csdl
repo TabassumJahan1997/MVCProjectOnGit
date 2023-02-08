@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MasterDetail_AircraftDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Aircraft">
+    <Key>
+      <PropertyRef Name="AircraftId" />
+    </Key>
+    <Property Name="AircraftId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AircraftName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Available" Type="Boolean" Nullable="false" />
+    <Property Name="AircraftTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AircraftType" Relationship="Self.FK__Aircraft__Aircra__267ABA7A" FromRole="Aircraft" ToRole="AircraftType" />
+    <NavigationProperty Name="EntryAircrafts" Relationship="Self.FK__EntryAirc__Aircr__2C3393D0" FromRole="Aircraft" ToRole="EntryAircrafts" />
+  </EntityType>
+  <EntityType Name="AircraftEntry">
+    <Key>
+      <PropertyRef Name="AircraftEntryId" />
+    </Key>
+    <Property Name="AircraftEntryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ModelNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ImagePath" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="NoOfEngine" Type="Int32" Nullable="false" />
+    <Property Name="ProductionDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="EntryAircrafts" Relationship="Self.FK__EntryAirc__Aircr__2B3F6F97" FromRole="AircraftEntry" ToRole="EntryAircrafts" />
+  </EntityType>
+  <EntityType Name="AircraftType">
+    <Key>
+      <PropertyRef Name="AircraftTypeId" />
+    </Key>
+    <Property Name="AircraftTypeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Aircraft" Relationship="Self.FK__Aircraft__Aircra__267ABA7A" FromRole="AircraftType" ToRole="Aircraft" />
+  </EntityType>
+  <EntityType Name="EntryAircraft">
+    <Key>
+      <PropertyRef Name="AircraftEntryId" />
+      <PropertyRef Name="AircraftId" />
+    </Key>
+    <Property Name="EntryAircraftsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AircraftEntryId" Type="Int32" Nullable="false" />
+    <Property Name="AircraftId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Aircraft" Relationship="Self.FK__EntryAirc__Aircr__2C3393D0" FromRole="EntryAircrafts" ToRole="Aircraft" />
+    <NavigationProperty Name="AircraftEntry" Relationship="Self.FK__EntryAirc__Aircr__2B3F6F97" FromRole="EntryAircrafts" ToRole="AircraftEntry" />
+  </EntityType>
+  <Association Name="FK__Aircraft__Aircra__267ABA7A">
+    <End Role="AircraftType" Type="Self.AircraftType" Multiplicity="1" />
+    <End Role="Aircraft" Type="Self.Aircraft" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AircraftType">
+        <PropertyRef Name="AircraftTypeId" />
+      </Principal>
+      <Dependent Role="Aircraft">
+        <PropertyRef Name="AircraftTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EntryAirc__Aircr__2C3393D0">
+    <End Role="Aircraft" Type="Self.Aircraft" Multiplicity="1" />
+    <End Role="EntryAircrafts" Type="Self.EntryAircraft" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Aircraft">
+        <PropertyRef Name="AircraftId" />
+      </Principal>
+      <Dependent Role="EntryAircrafts">
+        <PropertyRef Name="AircraftId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EntryAirc__Aircr__2B3F6F97">
+    <End Role="AircraftEntry" Type="Self.AircraftEntry" Multiplicity="1" />
+    <End Role="EntryAircrafts" Type="Self.EntryAircraft" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AircraftEntry">
+        <PropertyRef Name="AircraftEntryId" />
+      </Principal>
+      <Dependent Role="EntryAircrafts">
+        <PropertyRef Name="AircraftEntryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MasterDetail_AircraftDbContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Aircraft" EntityType="Self.Aircraft" />
+    <EntitySet Name="AircraftEntries" EntityType="Self.AircraftEntry" />
+    <EntitySet Name="AircraftTypes" EntityType="Self.AircraftType" />
+    <EntitySet Name="EntryAircrafts" EntityType="Self.EntryAircraft" />
+    <AssociationSet Name="FK__Aircraft__Aircra__267ABA7A" Association="Self.FK__Aircraft__Aircra__267ABA7A">
+      <End Role="AircraftType" EntitySet="AircraftTypes" />
+      <End Role="Aircraft" EntitySet="Aircraft" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EntryAirc__Aircr__2C3393D0" Association="Self.FK__EntryAirc__Aircr__2C3393D0">
+      <End Role="Aircraft" EntitySet="Aircraft" />
+      <End Role="EntryAircrafts" EntitySet="EntryAircrafts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EntryAirc__Aircr__2B3F6F97" Association="Self.FK__EntryAirc__Aircr__2B3F6F97">
+      <End Role="AircraftEntry" EntitySet="AircraftEntries" />
+      <End Role="EntryAircrafts" EntitySet="EntryAircrafts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

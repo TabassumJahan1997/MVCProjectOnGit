@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Aircraft_MasterDetails_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AircraftEntry">
+    <Key>
+      <PropertyRef Name="AircraftEntryID" />
+    </Key>
+    <Property Name="AircraftEntryID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AircraftName" Type="nvarchar" MaxLength="70" Nullable="false" />
+    <Property Name="NoOfEngine" Type="int" Nullable="false" />
+    <Property Name="PicturePath" Type="nvarchar" MaxLength="200" />
+    <Property Name="ProductionDate" Type="date" Nullable="false" />
+    <Property Name="IsAvailable" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Aircrafts">
+    <Key>
+      <PropertyRef Name="AircraftId" />
+    </Key>
+    <Property Name="AircraftId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AircraftName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Price" Type="money" Nullable="false" />
+    <Property Name="ManufacturerId" Type="int" />
+  </EntityType>
+  <EntityType Name="EntryAircrafts">
+    <Key>
+      <PropertyRef Name="AircraftEntryId" />
+      <PropertyRef Name="AircraftId" />
+    </Key>
+    <Property Name="EntryAircraftsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AircraftEntryId" Type="int" Nullable="false" />
+    <Property Name="AircraftId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Manufacturer">
+    <Key>
+      <PropertyRef Name="ManufacturerId" />
+    </Key>
+    <Property Name="ManufacturerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ManufacturerName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Aircrafts__Manuf__286302EC">
+    <End Role="Manufacturer" Type="Self.Manufacturer" Multiplicity="0..1" />
+    <End Role="Aircrafts" Type="Self.Aircrafts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturer">
+        <PropertyRef Name="ManufacturerId" />
+      </Principal>
+      <Dependent Role="Aircrafts">
+        <PropertyRef Name="ManufacturerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EntryAirc__Aircr__2B3F6F97">
+    <End Role="AircraftEntry" Type="Self.AircraftEntry" Multiplicity="1" />
+    <End Role="EntryAircrafts" Type="Self.EntryAircrafts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AircraftEntry">
+        <PropertyRef Name="AircraftEntryID" />
+      </Principal>
+      <Dependent Role="EntryAircrafts">
+        <PropertyRef Name="AircraftEntryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EntryAirc__Aircr__2C3393D0">
+    <End Role="Aircrafts" Type="Self.Aircrafts" Multiplicity="1" />
+    <End Role="EntryAircrafts" Type="Self.EntryAircrafts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Aircrafts">
+        <PropertyRef Name="AircraftId" />
+      </Principal>
+      <Dependent Role="EntryAircrafts">
+        <PropertyRef Name="AircraftId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Aircraft_MasterDetails_DBModelStoreContainer">
+    <EntitySet Name="AircraftEntry" EntityType="Self.AircraftEntry" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Aircrafts" EntityType="Self.Aircrafts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EntryAircrafts" EntityType="Self.EntryAircrafts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Manufacturer" EntityType="Self.Manufacturer" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Aircrafts__Manuf__286302EC" Association="Self.FK__Aircrafts__Manuf__286302EC">
+      <End Role="Manufacturer" EntitySet="Manufacturer" />
+      <End Role="Aircrafts" EntitySet="Aircrafts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EntryAirc__Aircr__2B3F6F97" Association="Self.FK__EntryAirc__Aircr__2B3F6F97">
+      <End Role="AircraftEntry" EntitySet="AircraftEntry" />
+      <End Role="EntryAircrafts" EntitySet="EntryAircrafts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EntryAirc__Aircr__2C3393D0" Association="Self.FK__EntryAirc__Aircr__2C3393D0">
+      <End Role="Aircrafts" EntitySet="Aircrafts" />
+      <End Role="EntryAircrafts" EntitySet="EntryAircrafts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

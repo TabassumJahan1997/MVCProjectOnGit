@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Aircraft_MasterDetails_DBModelStoreContainer" CdmEntityContainer="Aircraft_MasterDetails_DBContext">
+    <EntitySetMapping Name="AircraftEntries">
+      <EntityTypeMapping TypeName="Aircraft_MasterDetails_DBModel.AircraftEntry">
+        <MappingFragment StoreEntitySet="AircraftEntry">
+          <ScalarProperty Name="AircraftEntryID" ColumnName="AircraftEntryID" />
+          <ScalarProperty Name="AircraftName" ColumnName="AircraftName" />
+          <ScalarProperty Name="NoOfEngine" ColumnName="NoOfEngine" />
+          <ScalarProperty Name="PicturePath" ColumnName="PicturePath" />
+          <ScalarProperty Name="ProductionDate" ColumnName="ProductionDate" />
+          <ScalarProperty Name="IsAvailable" ColumnName="IsAvailable" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Aircrafts">
+      <EntityTypeMapping TypeName="Aircraft_MasterDetails_DBModel.Aircraft">
+        <MappingFragment StoreEntitySet="Aircrafts">
+          <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+          <ScalarProperty Name="AircraftName" ColumnName="AircraftName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="ManufacturerId" ColumnName="ManufacturerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EntryAircrafts">
+      <EntityTypeMapping TypeName="Aircraft_MasterDetails_DBModel.EntryAircraft">
+        <MappingFragment StoreEntitySet="EntryAircrafts">
+          <ScalarProperty Name="EntryAircraftsId" ColumnName="EntryAircraftsId" />
+          <ScalarProperty Name="AircraftEntryId" ColumnName="AircraftEntryId" />
+          <ScalarProperty Name="AircraftId" ColumnName="AircraftId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Manufacturers">
+      <EntityTypeMapping TypeName="Aircraft_MasterDetails_DBModel.Manufacturer">
+        <MappingFragment StoreEntitySet="Manufacturer">
+          <ScalarProperty Name="ManufacturerId" ColumnName="ManufacturerId" />
+          <ScalarProperty Name="ManufacturerName" ColumnName="ManufacturerName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

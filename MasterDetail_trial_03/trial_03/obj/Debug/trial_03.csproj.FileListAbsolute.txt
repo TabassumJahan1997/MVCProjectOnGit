@@ -1,0 +1,456 @@
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\trial_03.dll.config
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\trial_03.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\trial_03.pdb
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe.config
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\csc.rsp
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe.config
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\csi.rsp
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.AppContext.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Collections.Immutable.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Console.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Globalization.Calendars.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Http.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Sockets.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.ValueTuple.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe.config
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.rsp
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe.config
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\EntityFramework.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\Microsoft.Web.Infrastructure.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\EntityFramework.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.AssemblyReference.cache
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CoreCompileInputs.cache
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CopyComplete
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.dll
+H:\C#.NET\MVC\trial_03\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.pdb
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll.config
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.pdb
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe.config
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.rsp
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe.config
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.rsp
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.AppContext.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Collections.Immutable.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Console.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Globalization.Calendars.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Http.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Sockets.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.ValueTuple.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe.config
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.rsp
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe.config
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.Web.Infrastructure.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.AssemblyReference.cache
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CoreCompileInputs.cache
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CopyComplete
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.dll
+H:\C#.NET\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.pdb
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll.config
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.pdb
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe.config
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.rsp
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe.config
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.rsp
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.AppContext.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Console.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Http.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Sockets.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe.config
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.rsp
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CopyComplete
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.dll
+C:\Users\student\Downloads\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.pdb
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll.config
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.pdb
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe.config
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.rsp
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe.config
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.rsp
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Managed.Core.targets
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.AppContext.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Collections.Immutable.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Console.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Globalization.Calendars.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Http.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Sockets.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Reflection.Metadata.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.ValueTuple.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XmlDocument.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe.config
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.rsp
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe.config
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.Web.Infrastructure.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.AssemblyReference.cache
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CoreCompileInputs.cache
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CopyComplete
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.dll
+E:\R-51\ASP.NET MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.pdb
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll.config
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\trial_03.pdb
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe.config
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csc.rsp
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe.config
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\csi.rsp
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Managed.Core.targets
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.AppContext.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Collections.Immutable.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Console.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Globalization.Calendars.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Http.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Sockets.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Reflection.Metadata.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.ValueTuple.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XmlDocument.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe.config
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.rsp
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe.config
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.Web.Infrastructure.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.AssemblyReference.cache
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CoreCompileInputs.cache
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CopyComplete
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.dll
+J:\MVC\trial_07\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.pdb
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\trial_03.dll.config
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\trial_03.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\trial_03.pdb
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\csc.exe.config
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\csc.rsp
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\csi.exe.config
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\csi.rsp
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.AppContext.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Collections.Immutable.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Console.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Http.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Net.Sockets.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.ValueTuple.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.exe.config
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\vbc.rsp
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\roslyn\VBCSCompiler.exe.config
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\EntityFramework.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\Microsoft.Web.Infrastructure.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\EntityFramework.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\EntityFramework.SqlServer.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Razor.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Deployment.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Webpages.Razor.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Helpers.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\System.Web.Mvc.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.AssemblyReference.cache
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CoreCompileInputs.cache
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.csproj.CopyComplete
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.dll
+E:\MVCProjectOnGit\8th_Mid_Monthly_Evidence\MasterDetail_trial_03\trial_03\obj\Debug\trial_03.pdb

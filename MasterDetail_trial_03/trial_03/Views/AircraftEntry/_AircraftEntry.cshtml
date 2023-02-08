@@ -1,0 +1,13 @@
+﻿@model trial_03.ViewModels.AircraftViewModel
+<div class="row my-2">
+    @Html.LabelFor(a => a.AircraftId, new { @class = "col-form-label col-2" })
+    <div class="col-4">
+        @Html.DropDownListFor(a => a.AircraftId, new SelectList(ViewBag.aircrafts, "AircraftId", "AircraftName"), "----Select----", new { @class = "form-select select" })
+        @Html.ValidationMessageFor(a => a.AircraftId, "", new { @class = "text-danger" })
+    </div>
+    @Html.LabelFor(a => a.Price, new { @class = "col-form-label col-2" })
+    <div class="col-4">
+        @Html.TextBoxFor(a=>a.Price,new { @class="form-control",@readonly="true"})
+        
+    </div>
+</div>

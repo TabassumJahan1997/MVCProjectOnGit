@@ -1,0 +1,67 @@
+﻿@model IEnumerable<trial_03.Models.AircraftEntry>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<div class="row">
+    <div class="col mx-4">
+        <h3>Aircraft Entry Records</h3>
+        <div class="d-flex justify-content-end mb-3">
+            @Html.ActionLink("New Record", "Create", "AircraftEntry", new { }, new { @class = "btn btn-secondary btn-sm" })
+        </div>
+        <table class="table table-bordered table-sm">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(a => a.ImagePath)</th>
+                    <th>@Html.DisplayNameFor(a => a.ModelNo)</th>
+                    <th>@Html.DisplayNameFor(a => a.NoOfEngine)</th>
+                    <th>@Html.DisplayNameFor(a => a.ProductionDate)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model)
+                {
+                    <tr>
+                        <td style="width:80px" class="text-center">
+                            <img src="~/Images/@x.ImagePath" width="75" height="75" class="rounded-circle"/>
+                        </td>
+                        <td>@Html.DisplayFor(a => x.ModelNo)</td>
+                        <td>@Html.DisplayFor(a => x.NoOfEngine)</td>
+                        <td>@Html.DisplayFor(a => x.ProductionDate)</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "AircraftEntry", new { }, new { @class = "btn btn-outline-info btn-sm" })
+                            @Html.ActionLink("Delete", "Delete", "AircraftEntry", new { }, new { @class = "btn btn-outline-danger btn-sm" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="border-end-0"></td>
+                        <td colspan="4" class="border-start-0">
+                            <table class="table table-bordered table-sm col-2 my-3">
+                                <thead>
+                                    <tr>
+                                        <th>Aircraft Name</th>
+                                        <th>Price</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var y in x.EntryAircrafts)
+                                    {
+                                        <tr>
+                                            <td>@y.Aircraft.AircraftName</td>
+                                            <td>@y.Aircraft.Price</td>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
